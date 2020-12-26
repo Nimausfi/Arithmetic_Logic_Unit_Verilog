@@ -22,7 +22,7 @@ The opcode input is a parallel bus that conveys to the ALU an operation selectio
 The code provided is for a **4-bit arithmetic logic unit**.
 \
 \
-**The design includes:** 
+The design includes:
 
 
 Two inputs "a" and "b" [each 4 bits]
@@ -32,7 +32,8 @@ One "op" to set the operation to perform [2 bits]
 
 
 and one output as "result" [8 bits]
-
+\
+\
 Operations implented are:
 
 
@@ -48,5 +49,5 @@ op = 10 -- Modulo
 op = 11 -- Bitwise AND
 
 
-Testbench has been provided to verify the design. 
+Testbench (ALU_TB) has been provided to verify the design. 
 
