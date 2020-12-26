@@ -18,3 +18,13 @@ The opcode input is a parallel bus that conveys to the ALU an operation selectio
 
 PICTURE
 
+
+The code provided is for a 4-bit arithmetic logic unit.
+\
+The design includes: 
+\
+2 inputs "a" and "b" [each 4 bits]
+\
+"op" to set the operation to perform, [2 bits]
+\
+and 1 output as "result", [8 bits]
