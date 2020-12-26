@@ -3,7 +3,7 @@
 **What is ALU?**
 \
 \
-**Arithmetic Logic Unit (ALU)** is an integrated circuit in a CPU or GPU which performs arithmetic and logic operations. The arithmetic instructions include addition, subtraction, multiplication, division, and shifting operations, while logic operations include AND, OR, XOR, and NOT operations.
+**Arithmetic Logic Unit (ALU)** is an integrated circuit in a CPU or GPU, which performs arithmetic and logic operations. The arithmetic instructions include addition, subtraction, multiplication, division, and shifting operations, while logic operations include AND, OR, XOR, and NOT operations.
 \
 \
 **Operands:**
