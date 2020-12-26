@@ -23,12 +23,12 @@ The code provided is for a **4-bit arithmetic logic unit**.
 \
 \
 **The design includes:** 
-\
+
 
 Two inputs "a" and "b" [each 4 bits]
 
 
-One "op" to set the operation to perform, [2 bits]
+One "op" to set the operation to perform [2 bits]
 
 
-and one output as "result", [8 bits]
+and one output as "result" [8 bits]
