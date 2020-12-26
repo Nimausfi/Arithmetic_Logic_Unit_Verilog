@@ -30,7 +30,7 @@ One **"op"** to set the operation to perform [2 bits]
 One output as **"result"** [8 bits]
 \
 \
-Operations implented are:
+**Operations** implented are:
 
 
 op: 00 -- **Addition**
