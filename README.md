@@ -1,1 +1,2 @@
-# Arithmetic_logic_unit_Verilog
+# Arithmetic Logic Unit (ALU)
+
