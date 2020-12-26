@@ -37,16 +37,16 @@ One output as **"result"** [8 bits]
 Operations implented are:
 
 
-op = 00 -- **Addition**
+op: 00 -- **Addition**
 
 
-op = 01 -- **Multiplication** 
+op: 01 -- **Multiplication** 
 
 
-op = 10 -- **Modulo**
+op: 10 -- **Modulo**
 
 
-op = 11 -- **Bitwise AND**
+op: 11 -- **Bitwise AND**
 
 
 Testbench (ALU_TB) has been provided to verify the design. 
