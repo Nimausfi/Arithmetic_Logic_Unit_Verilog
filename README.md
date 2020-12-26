@@ -22,7 +22,8 @@ PICTURE
 The code provided is for a **4-bit arithmetic logic unit**.
 \
 \
-The design includes: 
+**The design includes:** 
+\
 \
 Two inputs "a" and "b" [each 4 bits]
 \
