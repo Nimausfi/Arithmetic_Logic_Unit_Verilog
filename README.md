@@ -31,22 +31,22 @@ Two inputs **"a"** and **"b"** [each 4 bits]
 One **"op"** to set the operation to perform [2 bits]
 
 
-and one output as **"result"** [8 bits]
+One output as **"result"** [8 bits]
 \
 \
 Operations implented are:
 
 
-op = 00 -- Addition
+op = 00 -- **Addition**
 
 
-op = 01 -- Multiplication 
+op = 01 -- **Multiplication** 
 
 
-op = 10 -- Modulo
+op = 10 -- **Modulo**
 
 
-op = 11 -- Bitwise AND
+op = 11 -- **Bitwise AND**
 
 
 Testbench (ALU_TB) has been provided to verify the design. 
