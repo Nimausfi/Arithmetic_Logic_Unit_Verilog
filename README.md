@@ -33,8 +33,14 @@ One "op" to set the operation to perform [2 bits]
 
 and one output as "result" [8 bits]
 
-Operation implented are:
+Operations implented are:
+\
 op = 00 -- Addition
+\
 op = 01 -- Multiplication 
+\
 op = 10 -- Modulo
+\
 op = 11 -- Bitwise AND
+\
+Testbench has been provided to check the valifity of your design. 
