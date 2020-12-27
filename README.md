@@ -44,7 +44,7 @@ op: 10 -- **Modulo**
 
 
 op: 11 -- **Bitwise AND**
-
-
-Testbench (alu_TB) has been provided to simulate and verify the design. 
+\
+\
+**Testbench** (alu_TB) has been provided to simulate and verify the design. 
 
